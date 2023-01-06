@@ -6,11 +6,11 @@ ESP32で高精度環境センサ(AHT25)を使い温度・湿度を観測しま�
 
 ## 画面イメージ (ScreenShot)
 
-<img src="img.jpeg">
+<img src="img.jpeg" height="500">
 
 ## 動作要件 (Requirements)
 
-M5stack (Basic) / C++ / PlatformIO / AHT25(Environment sensor) / Wi-Fi
+ESP32 / C++ / PlatformIO / AHT25(Environment sensor) / Wi-Fi
 
 ## 回路図 (Circuit diagram)
 
